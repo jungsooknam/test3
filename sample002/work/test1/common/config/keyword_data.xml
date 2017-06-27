@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<module>
+
+	<dicData kor='ㅂ' eng=''>
+		<dataTit><![CDATA[보험상품]]></dataTit>
+		<dataCon><![CDATA[위험보장을 목적으로 우연한 사건 발생에 관하여 금전 및 그 밖의 급여를 지급할 것을 약정하고 대가를<br>수수(授受)하는 계약을 말함]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅅ' eng=''>
+		<dataTit><![CDATA[생명보험상품]]></dataTit>
+		<dataCon><![CDATA[위험보장을 목적으로 사람의 생존 또는 사망에 관하여 약정한 금전 및 그 밖의 급여를 지급할 것을<br>약속하고 대가를 수수하는 계약으로서 생명보험계약, 연금보험계약(퇴직보험계약 포함)을 말함]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅅ' eng=''>
+		<dataTit><![CDATA[손해보험상품]]></dataTit>
+		<dataCon><![CDATA[위험보장을 목적으로 우연한 사건(질병•상해 및 간병은 제외)으로 발생하는 손해(계약상 채무불이행<br>또는 법령상 의무불이행으로 발생하는 손해를 포함한다)에 관하여 금전 및 그 밖의 급여를 지급할 것을<br>약속하고 대가를 수수하는 계약으로서 대통령령으로 정하는 계약]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅈ' eng=''>
+		<dataTit><![CDATA[제3보험상품]]></dataTit>
+		<dataCon><![CDATA[위험보장을 목적으로 사람의 질병•상해 또는 이에 따른 간병에 관하여 금전 및 그 밖의 급여를<br>지급할 것을 약속하고 대가를 수수하는 계약으로서 대통령령으로 정하는 계약]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅎ' eng=''>
+		<dataTit><![CDATA[허가]]></dataTit>
+		<dataCon><![CDATA[- 법령에 의한 일반적, 상대적 금지를 특정한 경우에 해제하여 줌으로써 자연적 자유를 회복시켜주는<br>   행정행위를 의미함<br>- 이를 받지 않고 한 행위는 사법상 유효하더라도 처벌의 대상이 됨]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅇ' eng=''>
+		<dataTit><![CDATA[인가]]></dataTit>
+		<dataCon><![CDATA[- 제3자가 한 법률행위의 효력을 완성시켜 주는 행정행위<br>- 법에서 허가, 승인 등과 같이 혼용되고 있으므로 그 성질에 따라서 해당 여부를 판단해야 함]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅅ' eng=''>
+		<dataTit><![CDATA[승인]]></dataTit>
+		<dataCon><![CDATA[국가나 지방자치단체의 기관이 다른 기관이나 개인의 특정한 행위에 대하여 부여하는 허가적,<br>인가적 승낙 또는 동의를 말함]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅅ' eng=''>
+		<dataTit><![CDATA[신고]]></dataTit>
+		<dataCon><![CDATA[- 권한 있는 관청에 일정한 사실을 진술하는 것을 말함<br>- 일정한 법률사실이나 법률관계의 존부에 관하여 관청에 통고하는 행위]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅂ' eng=''>
+		<dataTit><![CDATA[보고]]></dataTit>
+		<dataCon><![CDATA[신고와 유사하나, 신고를 하지 않고 행한 경우에는 그 행위자체가 무효가 되지만 이를 하지 않고<br>행한 경우에는 그 행위 자체는 유효함]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅈ' eng=''>
+		<dataTit><![CDATA[주식회사]]></dataTit>
+		<dataCon><![CDATA[주주의 출자에 의한 자본을 가지고, 자본은 균일한 단위인 주식에 의하여 분할되며, 주주는 그가 인수한<br>주식의 인수가액을 한도로 회사에 대해서만 책임을 지는 회사]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅈ' eng=''>
+		<dataTit><![CDATA[조직변경]]></dataTit>
+		<dataCon><![CDATA[회사가 인격동일성을 유지하면서 다른 종류의 회사로 전환하는 것]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅅ' eng=''>
+		<dataTit><![CDATA[상호회사]]></dataTit>
+		<dataCon><![CDATA[- 상호보험을 목적으로 보험업법에 의하여 설립된 사단법인<br>- 허가적, 인가적 승낙 또는 동의를 말함]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅂ' eng=''>
+		<dataTit><![CDATA[보험설계사]]></dataTit>
+		<dataCon><![CDATA[보험회사•보험대리점 또는 보험중개사에 소속되어 보험계약의 체결을 중개하는 자]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅂ' eng=''>
+		<dataTit><![CDATA[보험대리점]]></dataTit>
+		<dataCon><![CDATA[보험회사를 위하여 보험계약의 체결을 대리하는 자]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅂ' eng=''>
+		<dataTit><![CDATA[보험중개사]]></dataTit>
+		<dataCon><![CDATA[독립적으로 보험계약의 체결을 중개하는 자]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅅ' eng=''>
+		<dataTit><![CDATA[승환계약]]></dataTit>
+		<dataCon><![CDATA[보험계약자 또는 피보험자로 하여금 이미 성립된 보험계약을 부당하게 소멸시킴으로써<br>새로운 보험계약을 청약하게 하거나 새로운 보험계약을 청약하게 함으로써 기존보험계약을 부당하게<br>소멸시키거나 그 밖에 부당하게 보험계약을 청약하게 하거나 이러한 것을 권유하는 행위]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅈ' eng=''>
+		<dataTit><![CDATA[적합성의 원칙]]></dataTit>
+		<dataCon><![CDATA[보험회사 또는 보험의 모집에 종사하는 자는 일반보험계약자가 보험계약을 체결하기 전에 면담 또는<br>질문을 통하여 보험계약자의 연령, 재산상황, 보험가입의 목적 등 대통령령으로 정하는 사항을 파악하고<br>그 일반보험계약자에게 적합하지 아니하다고 인정되는 보험계약의 체결을 권유하여서는 아니 된다는<br>원칙]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅈ' eng=''>
+		<dataTit><![CDATA[자기계약]]></dataTit>
+		<dataCon><![CDATA[보험대리점 또는 보험중개사가 자기 또는 자기를 고용하고 있는 자를 보험계약자 또는 피보험자로 하는<br>보험계약의 모집을 주된 목적으로 하는 보험의 보험료의 누계액이 당해 보험대리점 또는 보험중개사가<br>모집한 보험의 보험료의 100분의 50을 초과하게 된 경우]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅈ' eng=''>
+		<dataTit><![CDATA[자회사]]></dataTit>
+		<dataCon><![CDATA[보험회사가 다른 회사의 의결권 있는 발행주식(출자지분 포함) 총수의 100분의 15를 초과하여<br>소유하는 경우 그 다른 회사]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅊ' eng=''>
+		<dataTit><![CDATA[책임준비금]]></dataTit>
+		<dataCon><![CDATA[보험회사가 보험계약자로부터 받은 보험료에 대한 반대급부로서 부담하는 보험계약상의 책임을<br>이행하기 위하여 적립을 요하는 준비금으로서 대차대조표상의 부채계정에 계상됨]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅂ' eng=''>
+		<dataTit><![CDATA[비상위험]]></dataTit>
+		<dataCon><![CDATA[손해보험에서 대화재, 지진, 해일, 태풍 등 거대위험에 대한 준비금으로 적립한 금액]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅈ' eng=''>
+		<dataTit><![CDATA[지급여력금액]]></dataTit>
+		<dataCon><![CDATA[자본금, 계약자배당을 위한 준비금, 대손충당금, 후순위차입금 그 밖에 이에 준하는 것으로서 금감위가<br>정하는 금액을 합산한 금액에서 미상각신계약비, 영업권 그 밖에 이에 준하는 것으로서 금감위가 정하는<br>금액을 차감한 금액 ]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅈ' eng=''>
+		<dataTit><![CDATA[지급여력기준]]></dataTit>
+		<dataCon><![CDATA[보험업을 경영함에 따라 발생하게 되는 위험을 금감위가 정하는 방법에 의해 금액으로 환산한 것]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅈ' eng=''>
+		<dataTit><![CDATA[지급여력비율]]></dataTit>
+		<dataCon><![CDATA[지급여력금액을 지급여력기준금액으로 나눈 비율]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅅ' eng=''>
+		<dataTit><![CDATA[상호협정]]></dataTit>
+		<dataCon><![CDATA[보험회사가 그 업무에 관한 공동행위를 하기 위하여 다른 보험회사와 협정을 맺는 것]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅅ' eng=''>
+		<dataTit><![CDATA[손해보험계약]]></dataTit>
+		<dataCon><![CDATA[보험계약자가 약정한 보험료를 지급하기로 하고 보험자는 피보험자의 재산에 관하여<br>불확정한 사고가 생길 경우에 피보험자의 재산상 손해를 보상]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅂ' eng=''>
+		<dataTit><![CDATA[배상책임보험]]></dataTit>
+		<dataCon><![CDATA[피보험자가 제3자에게 손해배상책임을 짐으로써 입은 재산상의 손해를 보상]]></dataCon>
+	</dicData>
+
+	<dicData kor='ㅈ' eng=''>
+		<dataTit><![CDATA[제3자]]></dataTit>
+		<dataCon><![CDATA[손해보험계약에서의 제3자는 결국 배상책임보험의 피해자를 의미함]]></dataCon>
+	</dicData>
+
+</module>

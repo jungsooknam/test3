@@ -1,0 +1,463 @@
+﻿<?xml version='1.0' encoding='utf-8' ?>
+<!--
+guide
+
+page :
+1.uid로 하여 컨탠츠 페이지와 매칭한다.
+2.동일한 page넘버를 가질경우 해당페이지에 다수의 영상이 삽입될경우이며
+각정보는 배열로 담아 활용한다.
+
+local :
+1. 로컬로접속했을경우의 파일경로
+
+rtmp : 
+1. 웹으로 접근햇을경우의 rtmp경로
+
+path :
+1. rtmp로 접근시 추가 경로
+
+url :
+1. 영상 이름
+
+-->
+
+<module>
+	<chapter _chap="01">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='01_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='01_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='01_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='01_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='01_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='01_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='01_07'></page>
+	</chapter>
+	
+	<chapter _chap="02">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='02_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='02_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='02_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='02_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='02_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='02_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='02_07'></page>
+	</chapter>
+	
+	<chapter _chap="03">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='03_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='03_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='03_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='03_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='03_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='03_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='03_07'></page>
+	</chapter>
+	
+	<chapter _chap="04">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='04_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='04_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='04_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='04_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='04_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='04_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='04_07'></page>
+	</chapter>
+
+	<chapter _chap="05">
+		<page _page='04'  _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='05_04'></page>
+		<page _page='05'  _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='05_05'></page>
+		<page _page='06'  _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='05_06'></page>
+		<page _page='07'  _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='05_07'></page>
+		<page _page='08'  _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='05_08'></page>
+		<page _page='09'  _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='05_09'></page>
+	</chapter>
+	
+	<chapter _chap="06">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='06_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='06_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='06_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='06_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='06_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='06_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='06_07'></page>
+	</chapter>
+	
+	<chapter _chap="07">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='07_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='07_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='07_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='07_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='07_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='07_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='07_07'></page>
+	</chapter>	
+	
+	<chapter _chap="08">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='08_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='08_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='08_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='08_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='08_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='08_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='08_07'></page>
+	</chapter>
+	
+	<chapter _chap="09">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='09_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='09_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='09_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='09_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='09_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='09_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='09_07'></page>
+	</chapter>
+	
+	<chapter _chap="10">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='10_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='10_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='10_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='10_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='10_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='10_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='10_07'></page>
+	</chapter>
+	
+	<chapter _chap="11">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='11_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='11_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='11_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='11_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='11_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='11_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='11_07'></page>
+	</chapter>
+
+	<chapter _chap="12">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='12_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='12_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='12_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='12_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='12_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='12_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='12_07'></page>
+	</chapter>
+
+	<chapter _chap="13">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='13_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='13_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='13_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='13_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='13_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='13_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='13_07'></page>
+	</chapter>
+
+
+	<chapter _chap="14">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='14_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='14_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='14_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='14_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='14_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='14_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='14_07'></page>
+	</chapter>
+						
+
+	<chapter _chap="15">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='15_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='15_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='15_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='15_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='15_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='15_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='15_07'></page>
+	</chapter>
+		
+
+
+	<chapter _chap="16">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='16_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='16_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='16_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='16_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='16_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='16_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='16_07'></page>
+	</chapter>
+		
+
+
+	<chapter _chap="17">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='17_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='17_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='17_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='17_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='17_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='17_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='17_07'></page>
+	</chapter>
+		
+	<chapter _chap="18">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='18_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='18_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='18_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='18_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='18_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='18_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='18_07'></page>
+	</chapter>
+
+	<chapter _chap="19">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='19_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='19_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='19_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='19_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='19_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='19_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='19_07'></page>
+	</chapter>
+		
+
+	<chapter _chap="20">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='20_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='20_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='20_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='20_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='20_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='20_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='20_07'></page>
+	</chapter>
+		
+
+	<chapter _chap="21">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='21_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='21_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='21_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='21_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='21_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='21_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='21_07'></page>
+	</chapter>
+		
+
+	<chapter _chap="22">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='22_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='22_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='22_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='22_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='22_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='22_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='22_07'></page>
+	</chapter>
+		
+
+	<chapter _chap="23">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='23_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='23_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='23_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='23_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='23_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='23_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='23_07'></page>
+	</chapter>
+		
+
+	<chapter _chap="24">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='24_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='24_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='24_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='24_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='24_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='24_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='24_07'></page>
+	</chapter>
+		
+
+	<chapter _chap="25">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='25_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='25_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='25_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='25_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='25_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='25_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='25_07'></page>
+	</chapter>
+		
+
+	<chapter _chap="26">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='26_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='26_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='26_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='26_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='26_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='26_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='26_07'></page>
+	</chapter>
+		
+
+	<chapter _chap="27">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='27_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='27_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='27_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='27_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='27_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='27_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='27_07'></page>
+	</chapter>
+		
+
+
+	<chapter _chap="28">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='28_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='28_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='28_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='28_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='28_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='28_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='28_07'></page>
+	</chapter>
+	
+
+	<chapter _chap="29">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='29_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='29_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='29_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='29_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='29_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='29_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='29_07'></page>
+	</chapter>
+
+	<chapter _chap="30">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='30_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='30_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='30_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='30_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='30_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='30_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='30_07'></page>
+	</chapter>
+
+	<chapter _chap="31">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='31_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='31_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='31_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='31_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='31_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='31_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='31_07'></page>
+	</chapter>
+
+	<chapter _chap="32">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='32_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='32_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='32_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='32_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='32_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='32_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='32_07'></page>
+	</chapter>
+
+	<chapter _chap="33">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='33_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='33_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='33_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='33_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='33_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='33_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='33_07'></page>
+	</chapter>
+
+	<chapter _chap="34">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='34_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='34_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='34_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='34_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='34_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='34_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='34_07'></page>
+	</chapter>
+
+	<chapter _chap="35">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='35_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='35_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='35_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='35_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='35_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='35_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='35_07'></page>
+	</chapter>
+
+	<chapter _chap="36">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='36_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='36_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='36_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='36_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='36_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='36_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='36_07'></page>
+	</chapter>
+
+	<chapter _chap="37">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='37_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='37_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='37_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='37_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='37_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='37_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='37_07'></page>
+	</chapter>	
+</module>
+
+	<chapter _chap="38">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='38_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='38_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='38_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='38_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='38_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='38_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='38_07'></page>
+	</chapter>	
+	
+	<chapter _chap="39">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='39_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='39_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='39_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='39_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='39_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='39_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='39_07'></page>
+	</chapter>	
+	
+	<chapter _chap="40">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='40_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='40_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='40_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='40_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='40_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='40_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='40_07'></page>
+	</chapter>	
+	
+	<chapter _chap="41">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='41_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='41_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='41_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='41_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='41_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='41_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='41_07'></page>
+	</chapter>	
+	
+	<chapter _chap="42">
+		<page _page='04' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='42_04'></page>
+		<page _page='05' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='42_05'></page>
+		<page _page='06' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='42_06'></page>
+		<page _page='07' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='42_07'></page>
+		<page _page='08' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='42_07'></page>
+		<page _page='09' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='42_07'></page>
+		<page _page='10' _local='../../mov/' _rtmp='rtmp://test.invod.gscdn.com:80/vod2/_definst_/' _path='DEV_2017/KD170201MBv1/insurance/' _urls='42_07'></page>
+	</chapter>	
+	
+	
+</module>

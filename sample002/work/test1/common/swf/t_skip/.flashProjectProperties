@@ -1,0 +1,25 @@
+﻿<projectDescription>
+	<id>1238637846607</id>
+	<name>~t_skip</name>
+	<asVersion>0</asVersion>
+	<boundTemplate>file:///C|/Users/openj/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+	<classTemplate>file:///C|/Users/openj/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+	<classPath>.</classPath>
+	<rootURI>C:\Users\openj\AppData\Local\Temp\4</rootURI>
+	<flexSDK/>
+	<sources editable="false"/>
+	<libraries editable="false"/>
+	<externalLibraries editable="false"/>
+	<compileList editable="false">
+		<uri label="~t_skip.fla">file:///C|/Users/openj/AppData/Local/Temp/4/~t_skip.fla</uri>
+	</compileList>
+	<defaultApp>file:///C|/Users/openj/AppData/Local/Temp/4/~t_skip.fla</defaultApp>
+	<recentFiles editable="false">
+		<uri label="TweenCore.as">file:///C|/Users/openj/AppData/Local/Temp/4/com/greensock/core/TweenCore.as</uri>
+		<uri label="SimpleTimeline.as">file:///C|/Users/openj/AppData/Local/Temp/4/com/greensock/core/SimpleTimeline.as</uri>
+		<uri label="TweenLite.as">file:///C|/Users/openj/AppData/Local/Temp/4/com/greensock/TweenLite.as</uri>
+		<uri label="PropTween.as">file:///C|/Users/openj/AppData/Local/Temp/4/com/greensock/core/PropTween.as</uri>
+		<uri label="Quart.as">file:///C|/Users/openj/AppData/Local/Temp/4/com/greensock/easing/Quart.as</uri>
+	</recentFiles>
+	<locations editable="false"/>
+</projectDescription>
