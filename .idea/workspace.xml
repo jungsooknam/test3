@@ -2,7 +2,142 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0c0bc43-c93f-422a-b181-d11b4d0e5ab2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/include/in_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/_t_mov.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/_t_mov_10.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/help.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index01.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index02.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index03.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index04.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index05.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index06.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index07.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index08.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index09.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index10.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index11.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index12.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index13.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index14.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index15.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index16.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index17.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index18.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index19.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index20.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index21.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index22.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index23.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index24.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index25.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index26.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index27.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index28.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index29.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index30.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index31.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index32.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index33.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index34.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index35.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index36.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index37.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index38.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index39.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index40.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index41.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/index42.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/keyword.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_1.fla" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_1.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_2.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_3.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_4.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_5.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_6.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_7.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_1.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_1_원본.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_2.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_3.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_4.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_5.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_6.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_6_2.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_7.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_7_2.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_mov_5.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_1.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_2.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_3.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_4.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_5.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_6.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_7.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/t_skip.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/config/flv_url.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/config/flv_url_backup.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/config/keyword_data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson01.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson02.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson03.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson04.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson05.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson06.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson07.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson08.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson09.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson12.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson13.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson14.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson15.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson17.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson18.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson19.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson20.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson21.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson22.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson23.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson24.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson25.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson26.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson27.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson28.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson29.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson31.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson32.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson33.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson34.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson35.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson36.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson37.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson38.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson39.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson40.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson41.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/js/lesson42.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/help.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/keyword.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/.flashProjectProperties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/com/greensock/TweenLite.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/com/greensock/core/PropTween.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/com/greensock/core/SimpleTimeline.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/com/greensock/core/TweenCore.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/com/greensock/easing/Quart.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test3.iws" />
@@ -34,8 +169,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="in_common.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="in_common.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample002/work/test1/include/in_common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sample002/work/test1/common/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -129,6 +274,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample002" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="work" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -139,6 +310,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -240,6 +412,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample002/work/test1/include/in_common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample002/work/test1/common/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
