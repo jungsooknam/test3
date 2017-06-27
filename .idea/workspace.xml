@@ -2,85 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0c0bc43-c93f-422a-b181-d11b4d0e5ab2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample002/work/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/js/contents_7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/_t_mov.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/_t_mov_10.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index02.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index03.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index04.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index05.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index06.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index07.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index08.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index09.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index10.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index11.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index12.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index13.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index14.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index15.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index16.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index17.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index18.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index19.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index20.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index21.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index22.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index23.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index24.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index25.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index26.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index27.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index28.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index29.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index30.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index31.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index32.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index33.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index34.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index35.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index36.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index37.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index38.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index39.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index40.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index41.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/index42.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_2.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_3.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_4.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_5.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_6.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/player_7.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_1_원본.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_2.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_3.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_4.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_5.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_6.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_6_2.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_7.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_ctrl_7_2.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_2.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_3.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_4.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_5.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_6.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_quiz_7.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/.flashProjectProperties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/com/greensock/TweenLite.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/com/greensock/core/PropTween.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/com/greensock/core/SimpleTimeline.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/com/greensock/core/TweenCore.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/com/greensock/easing/Quart.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample002/work/test1/common/swf/t_skip/t_skip.swf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample002/work/index.html" afterPath="$PROJECT_DIR$/sample002/work/index.html" />
     </list>
     <ignored path="test3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,16 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="C01.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample002/work/test1/01/C01.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.375">
-              <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="C02.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample002/work/test1/01/C02.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -191,11 +104,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C10.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="C10.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample002/work/test1/01/C10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sample002/work/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.19480519">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -311,32 +234,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample002" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -476,14 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample002/work/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sample002/work/test1/01/C01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.375">
@@ -560,6 +449,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample002/work/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19480519">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
